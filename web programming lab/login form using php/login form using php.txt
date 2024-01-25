@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Login Form</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+margin: 0;
+padding: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+form {
+background-color: #fff;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+text-align: center;
+color: #333;
+}
+input {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+box-sizing: border-box;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+input[type="submit"] {
+background-color: #4caf50;
+color: #fff;
+cursor: pointer;
+}
+input[type="submit"]:hover {
+background-color: #45a049;
+}
+</style>
+</head>
+<body>
+<h1>Login Form</h1>
+<form method="POST" action="">
+Login: <input type="text" name="log"><br><br>
+Password: <input type="password" name="pass"><br><br>
+<input type="submit" name="submit" value="Submit">
+</form>
+New Record Added</body>
+</html>

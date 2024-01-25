@@ -1,0 +1,38 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<form action="main.php" method="POST">
+Enter unit=<input type="textbox" name="n" >
+<button>submit</button>
+</body>
+</html>
+MAIN.PHP
+<?php
+$unit1= 3.50;
+$unit2= 4;
+$unit3= 5.20;
+$unit4= 6.50;
+if ($_SERVER["REQUEST_METHOD"] == "POST")
+{
+$n = $_POST['n'];
+if ($n <= 50) 
+{
+$totalCost=$unit1*$n;
+}
+elseif($n<=150)
+{
+$totalCost=$unit1*50+$unit2*($n-50);
+}
+elseif($n<=250)
+{
+$totalCost=$unit1*50+$unit2*100+$unit3*($n-150);
+} 
+else
+{
+$totalCost=$unit1*50+$unit2*100+$unit3*100+$unit4*($n-250);
+}
+echo"Total Cost: $totalCost";
+}
+?>

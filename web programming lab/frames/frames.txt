@@ -1,0 +1,124 @@
+                                               1.  COURSES
+<html>
+<head>
+<title>
+college website</title>
+<body bgcolor="black"><font color="white">
+<center>
+<h1>SCMS COLLEGE OF ENGINEERING AND TECHNOLOGY<img src="download.jpg" width="9%" height="9%"></h1></center>
+<center><img src="Aerial Shot - Campus.jpg" height="80%" width="100%"><marquee>www.scms23@gmailcom</marquee>
+<p>SCMS Group of Educational Institutions is a national leader in higher education especially in the fields of Management, Engineering and Technology. Inspired by the vision of its founder Dr. G.P.C Nayar on value based education, SCMS has a tradition of over 4 decades of sustained and focused pursuit of its objectives. There are about a dozen Institutions under its fold in diverse disciplines like Management, Engineering, Biotechnology, Architecture, Computer Applications, Polytechnics and the like, operating from different locations in Kochi (Cochin) , Kerala, India.</p>
+<div class="container">
+  <img src="scms_main_img.jpg" align="right" height="56%" width:80%;">
+   <div class="centered">SCMS WITH GLOBAL PERSPECTIVE IN EDUCATION
+SCMS Group of Educational Institutions, started in 1976, is functioning today with a Vision to be a leader in providing value based education in harmony with the changing global order and a mission to develop globally competent and socially responsible business leaders through innovative education system.</div>
+</div>
+<h2>courses</h2>
+<p>The details about various courses in scms institution are are available<a href="navigation.html"> here!</a><br>
+<br><br>
+<iframe src="iframe.html"height="19%" width="25%" align="left"></iframe><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center><h2><u><b>our Affiliations & Accreditations</b></u></center><br><center>
+<img src="logo-one.jpg" width="10%" height="10%">
+<img src="logo-two.jpg" width="10%" height="10%">
+<img src="logo-three.jpg" width="10%" height="10%">
+<img src="logo-four.jpg" width="10%" height="10%">
+<img src="logo-five.jpg" width="10%" height="10%">
+<img src="logo-six.jpg" width="10%" height="10%">
+<img src="logo-seven.jpg" width="10%" height="10%">
+<img src="logo-eight.jpg" width="10%" height="10%">
+<img src="logo-nine.jpg" width="10%" height="10%">
+
+
+Floating frame
+<html>
+<head>
+<title>
+institutions</title>
+<body bgcolor="white">
+<p><h1>Branches of the instiutions</h1>
+<ul>
+<li>SCMS SCHOOL OF ARCHITECTURE
+<li>SCMS COCHIN SCHOOL OF BUSINESS
+<li>SCMS SCHOOL OF ENGINEERING & TECHNOLOGY
+<li>SCMS SCHOOL OF TECHNOLOGY AND MANAGEMENT
+<li>SCMS SCHOOL OF MASSCOM STUDIES
+<li>SCMS COLLEGE OF POLYTECHNICS
+</ul>
+</body>
+</head>
+</html>
+Frame
+<html>
+<head>
+<title>
+</title>
+<frameset cols="40%,*">
+<frame src="li.html" name="main">
+<frame src="courses.html" name="abc">
+</frameset><body></body></head></html>
+B.TECH
+<html>
+<head>
+<title>
+dgree
+</title>
+<body><center
+<H1>B.TECH</H1>
+</center>
+<h2>streams</h2>
+<ol>
+<li>computer science and enginering(ai)
+<li>electronics and biomedical engineering
+<li>computer science and engineering
+<li>
+electrical and electronics engineering
+<li>electronics and communication
+<li>mechanical engineering
+<li>
+civil engineering
+<li>computer science and engineering(data science)
+<li>robotics and automation
+</ol>
+</body<
+</head>
+</html>
+M.TECH
+<html>
+<head>
+<title>
+dgree
+</title>
+<body><center
+<H1>M.TECH</H1>
+</center>
+<h2>streams</h2>
+<ol>
+<li>COMPUTER SCIENCE AND ENGINEERING
+<li>POWER ELECTRONICS&POWER SYSTEM
+<li>VLSI&EMBEDDED SYSTEMS
+<li>COMMUNICATION ENGINEERING
+</ol>
+</body<
+</head>
+</html>
+MCA
+<html>
+<head>
+<title>
+dgree
+</title>
+<body><center
+<H1>MCA</H1>
+</center>
+<P>he ASIET Master of Computer Applications (MCA) program teaches students research and innovation skills. Students are immersed in cutting-edge technology and taught a transdisciplinary, application-oriented approach to tackling real-world challenges. The Department of Computer Application has a diverse group of motivated researchers in emerging fields like Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Internet of Things (IoT) and smart systems, Image Processing, Augmented Reality/Virtual Reality, Big Data Analytics, Network Security, Mobile Ad Hoc Networks, Distributed Algorithms, Nature-Inspired Algorithms, and Processor & Architecture Study. Three well-equipped research labs—Multimedia, Data Analytics, and Bioinformatics—serve student research needs. These labs let students solve societal issues in real time. The MCA department is built on highly trained teachers who are research and innovation-oriented. They mentor students to take more courses to gain industry-ready skills. Students can practice their practical skills in well-equipped labs.ASIET instructors and facilities strive to offer students the finest placement chances. Research labs also encourage students to pursue further education and participate in R&D.</P>
+</body<</head>
+</html>

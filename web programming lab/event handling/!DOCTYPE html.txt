@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>background</title>
+</head>
+<style>
+h1
+{
+align:"center";
+color:"brown";
+}
+</style>
+<body>
+<link rel="stylesheet" href="css.css">
+<h1 id="demo">This is a heading</h1>
+change backgtound color into:
+<button onclick="changeback('blue')">Blue</button>
+<button onclick="changeback('yellow')">Yellow</button>
+<button onclick="changeback('green')">Green</button>
+<br>
+<br>
+change title color into:
+<button onclick="changehead('pink')">Pink</button>
+<button onclick="changehead('black')">Black</button>
+<button onclick="changehead('red')">Red</button>
+<script>
+function changeback(color)
+{
+      document.body.style.background = color;
+    }
+function changehead(color) {
+      var c = document.getElementById("demo");
+      c.style.color = color;
+    }
+  </script>
+</body>

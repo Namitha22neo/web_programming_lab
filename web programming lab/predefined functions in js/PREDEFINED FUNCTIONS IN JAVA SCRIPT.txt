@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multiple Functions</title>
+</head>
+<body bgcolor="pink">
+  <center>
+    <h1>Predefined JavaScript Functions</h1>
+    <p>Find the length of "Namitha Thampi!":</p>
+    <p id="demo"></p>
+    <h2>pi value</h2>
+    <p id="piValue"></p>
+    <h2>Concatenate Names</h2>
+    <p id="concatenatedName"></p>
+    <h2>Uppercase Conversion</h2>
+    <p>Convert "hello" into uppercase:</p>
+    <p id="uppercaseWord"></p>
+    <h2>Math Round Example</h2>
+    <p>Original Number: <span id="originalNumber">3.14159</span></p>
+    <p>Rounded Number: <span id="roundedNumber"></span></p>
+    <h2>Math Floor Example</h2>
+    <p>Original Number: <span id="floorOriginalNumber">5.678</span></p>
+<p>Floor Value: <span id="floorValue"></span></p>
+    <h2>Math Pow Example</h2>
+    <p>Base Number: <span id="baseNumber">2</span></p>
+    <p>Exponent: <span id="exponent">3</span></p>
+    <p>Result: <span id="result"></span></p>
+  </center>
+<script>
+    let text = "Namitha Thampi!";
+    let length = text.length;
+    document.getElementById("demo").innerHTML = "Length: " + length;
+    document.getElementById("piValue").innerHTML = "The value of pi is: " + Math.PI;
+    var firstName = "John";
+    var lastName = "Doe";
+    var fullName = firstName + " " + lastName;
+    document.getElementById("concatenatedName").innerHTML = "Concatenated Name: " + fullName;
+    var originalWord = "hello";
+    var uppercaseWord = originalWord.toUpperCase();
+    document.getElementById("uppercaseWord").innerHTML = "Uppercase Word: " + uppercaseWord;
+    var originalNumberRound = 3.14159;
+    var roundedNumber = Math.round(originalNumberRound);
+    document.getElementById("originalNumber").innerHTML = "Original Number: " + originalNumberRound;
+    document.getElementById("roundedNumber").innerHTML = "Rounded Number: " + roundedNumber;
+    var originalNumberFloor = 5.678;
+    var floorValue = Math.floor(originalNumberFloor);
+    document.getElementById("floorOriginalNumber").innerHTML = "Original Number: " + originalNumberFloor;
+    document.getElementById("floorValue").innerHTML = "Floor Value: " + floorValue;
+    var baseNumber = 2;
+    var exponent = 3;
+    var result = Math.pow(baseNumber, exponent);
+    document.getElementById("baseNumber").innerHTML = "Base Number: " + baseNumber;
+    document.getElementById("exponent").innerHTML = "Exponent: " + exponent;
+    document.getElementById("result").innerHTML = "Result: " + result;
+  </script>
+</body>
+</html>

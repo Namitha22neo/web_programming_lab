@@ -1,0 +1,37 @@
+<html lang= “en”>
+<head>
+<title>Cricket Players</title>
+</head>
+<body>
+<form method= “POST” action= “Cricket.php”>
+<label for “n”>CRICKET</label>
+<input type= “number” name= “n” required>
+<button type= “submit”>Cricket Players</button>
+</form>
+</body>
+</html>
+                                                               PHP
+<html>
+<head>
+<title>Cricket Players</title>
+</head>
+</body>
+<?php
+$array =array(“Virat Kohli”, “Dhoni”, “Dravid”, “Jadeja”, “Yuvaraj”, “Shami”, “Sanju”,”abd”);
+?>
+<h1>Cricket Players</h1>
+<table border= “3”>
+<tr><th>Serial Number</th>
+<th>Name of Players</th></tr>
+<?php
+$arraysize=sizeof($array);
+for($i=0;$i<$arraysize;$i++){
+      echo “<tr>”;
+      echo “<td>”.($i+1). “</td>”;
+      echo “<td>”.$array[$i]. “</td>”;
+      echo “</tr>”;
+}
+?>
+</table>
+</body>
+</html>

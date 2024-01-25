@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <title>Fibonacci Series</title>
+</head>
+<body>
+    <form method="POST" action="fibp.php">
+        <label for="n">Enter the limit for Fibonacci series:</label>
+        <input type="number" name="n" required>
+        <button type="submit">Generate Fibonacci Series</button>
+    </form>
+</body>
+</html>
+PHP
+<?php
+$a=0’;
+$b=1;
+echo$a;
+echo$b;
+$n=10;
+for($i=0;$i<$n-2;$i++) {
+$c=$a+$b;
+echo $c;
+$a=$b;
+$b=$c;
+}
+?>

@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+form
+</title>
+</head>
+<style>
+body{
+background-color:green;
+}
+</style>
+<body>
+<font color="white">
+<form><table><center>
+<h1>Registraion Page</h1>
+User ID:<input type="textbox"><br>
+<br>
+Password:<input type="password"><br>
+<br>
+Name:<input type="textbox"><br>
+<br>
+Address:<textarea name="sss"></textarea><br>
+<br>
+country:<select name="contry"><br>
+<br>
+<option value="3">India</option><br>
+<br>
+<option value="3">Pakistan</option><br>
+<br>
+<option value="3">Nepal</option><br>
+<br>
+<option value="3">China</option><br>
+<br>
+</select><br>
+<br>
+Pincode:<input type="textbox"><br>
+<br>
+Email:<input type="textbox"><br>
+<br>
+Gender:<input type="radio" name="ss">Male<input type="radio" name="ss">Female<input type="radio" name="ss">others<br>
+<br>
+Language:<input type="radio" name="rr">English<input type="radio" name="rr">Non-English<br>
+<br>
+About:<textarea name="sss"></textarea><br>
+<br>
+<button>submit</button><br>
+</form>
+</body>

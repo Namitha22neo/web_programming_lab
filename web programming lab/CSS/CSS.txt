@@ -1,0 +1,84 @@
+<html>
+<head>
+<title> frame
+</title>
+<frameset rows="50%,*">
+<frame src="final1.html">
+<frameset cols="50%,*">
+<frame src="link1.html">
+<frame src="link2.html">
+</frameset>                                  
+External CSS Style Sheet
+<html>
+<head>
+<title></title>
+<style>
+p{
+text-align:center;
+color:white;
+}
+body{
+background-color:purple;
+font-size:12;
+}
+h1, h2
+{
+color: white;
+}
+</style>
+</head>
+</html>
+Link1
+<html>
+<head>
+<title></title>
+<style>
+p
+{
+text-align:center;
+color:white;
+size=8;
+}
+</style>
+<body bgcolor="green"><center>
+<h1 style="color:white;">FREE VERSION</h1>
+<p>DAVINCI's have a free version available which is used widely by different users for different purposes...mainly non-professional people uses davinci free version </p>
+TO KNOW MORE<a href="pdt1.html">click here</a>
+
+
+Link2
+<html>
+<head>
+<title></title>
+<style>
+p
+{
+text-align:center;
+color:white;
+size=8;
+}
+</style>
+<body bgcolor="green"><center>
+<h1 style="color:white;">FREE VERSION</h1>
+<p>DaVinci Resolve 18.5 is a massive update with new AI tools and over 150 new features which include major additions to the cut page editing toolset, new Resolve FX, enhanced Fusion tools including USD support and powerful new Fairlight audio mix automation.</p>
+TO KNOW MORE<a href="pdt2.html">click here</a>
+Pdt2
+<html>
+<head>
+<title></title>
+<style>
+p
+{
+text-align:center;
+color:white;
+size=8;
+}
+</style>
+<body bgcolor="green"><center>
+<h1 style="color:white;">DAVINCI STUDIO VERSION</h1>
+<img src="davinci-resolve-15-video-editing-free-tutorials_0.jpg" width="50%">
+<p>DaVinci Resolve 18.5 is a massive update with new AI tools and over 150 new features which include major additions to the cut page editing toolset, new Resolve FX, enhanced Fusion tools including USD support and powerful new Fairlight audio mix automation. The Cut page features 3 new menus including tools to toggle ripple editing, resync audio and more! You can quickly generate captions for timelines with auto speech to text, or search on key words for faster editing. Resolve FX relight lets colorists add virtual lighting to a scene and VFX collaboration is now faster with support for Universal Scene Descriptor files. Plus you can group tracks in Fairlight for faster mix automation and editing. </p>
+<center>
+<button type="button">BUY</button> 
+<button type="button">Add TO cart</button>
+

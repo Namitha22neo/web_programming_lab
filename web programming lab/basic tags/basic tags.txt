@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>
+college home page
+</title>
+<body bgcolor="#ffb533">
+<center>
+<font color="blue">
+<h1>ADI SANKARA INSTITUTE OF ENGINEERING & TECHNOLOGY</h1>
+<h2>VIDYA BHARATI NAGAR,KALADY-683574</h2>
+<img src="Untitled.jpg" height="10%" width="10%">
+  </font>
+<img src="1503647889cover.webp" height="50%" width="80%">
+<center>
+</center>
+<marquee><b><i>www.adisankara.ac.in</i></b></marquee>
+<font size="5"><u>preview</u>
+<p><b>Adi Shankara Institute of Engineering and Technology</b>is one of the prestigious technological institutes in Kerala offering <i><b>NBA accredited</b></i> programs,<i>(CSE, ECE, ME, EE)</i>
+and having industry collaborations with the top Techno Giants and international collaborations with various universities abroad.</p>
+<p>deally located in an idyllic ambiance, Adi Shankara Institute of Engineering & Technology (ASIET) kindles vibrant memories of the serene presence of Jagadguru Adi Shankara. <br>
+Affiliated to A P J Abdul Kalam Technological University, accredited by NBA and approved by AICTE, ASIET is the first self-financing technical education center to be awarded the ISO 9001: 2008 certification.<br>
+Located just 5 km from Kochi international airport, ASIET has a dynamic academic atmosphere in an idyllic environment. 
+Fifteen batches of B.Tech students have passed out from the college to date and they occupy responsible positions in prestigious organizations in India and abroad.<br>
+Established in 2001 and adeptly run by the Sringeri Mutt with the benign blessings of Sree Sree Bharathitheertha Mahaswamigal, the College believes in keeping a proactive approach for the overall development of the students.</p>
+<br>
+<CENTER>
+<h1>COURSES OFFERED</h1></CENTER>
+<b>There are several UG and PG prorammmes available</b>
+<h2><U>UG COURSES</U></H2>
+<OL>
+<LI>Electronics & Biomedical Engineering.
+<LI>COMPUTER SCIENCE & ENGINEERING.
+<LI>ELECTRICAL & ELECTRONICS ENGINEERING.
+<LI>ELECTRONICS & COMMUNICATION ENGINEERING.
+<LI>MECHANICAL ENGINEERING.
+<LI>CIVIL ENGINEERING.
+<LI>ROBOTICS AND AUTOMATION
+</OL>
+<H2><U>PG PROGRAMMES</U>
+<OL>
+<LI>M.TECH
+<LI>MBA
+<LI>MCA
+</OL></head></html>

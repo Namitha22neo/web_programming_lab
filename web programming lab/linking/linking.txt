@@ -1,0 +1,100 @@
+<html><head>
+<title><table></title></head>
+<body bgcolor= “green”></body bgcolor></body>
+<h1 align= “center”><font color= “pink”><u>PROFILE</u></font color></h1>
+<table cellpadding = “5” cellspacing = “20” border = “5” width = “50%” height = “40%” align= “center” border color= “blue” table bgcolor= “violet”></table>
+<h2>>font size= “2”><a href= “qualification.html”>CLICK HERE: Qualification</a></font size></h2>
+<h3><font size= “2”><a href= “gallery.html”>CLICK HERE: Gallery</a></font size></h3>
+<h4><font size= “2”><a href= “2”><a href= “image.html”>CLICK HERE: Image</a></font size></h4>
+<h5><font size= “2”><a href= “links.html”>CLICK HERE: Links</a></font size></h5>
+<tr><td>NAME
+<td>NAMITHA</tr>
+<tr><td>EMAIL ID
+<td>namu121namitha@gmail.com </tr>
+<tr><td>MOBILE NUMBER
+<td>9744214211</tr>
+<tr><td>GENDER
+<td>FEMALE</tr>
+<tr><td>DOB
+<td>10/05/2000</tr>
+<tr><td>ADDRESS
+<td>korattukudy(h)aimury po aimury.</tr>
+<tr><td>PINCODE
+<td>683544</tr>
+<tr><td>STATE
+<td>KERALA</tr>
+</html>
+                                           TIME TABLE-GALLERY SHOWS
+<html>
+<head>
+<title></title>
+<table><body>
+<body align= “center”><font size= “50”><body bgcolor= “red”>TIME TABLE-GALLERY SHOWS</body bgcolor></font size></body>
+<h1><font size= “2”><a href= “profile.html”>CLICK HERE: Profile</a></font size></h1>
+<h2><font size= “2”><a href= “image.html”>CLICK HERE: Image</a></font size></h2>
+<h3><font size= “2”><a href= “qualification.html”>CLICK HERE: qualification</a></font size></h3>
+<h4><font size= “2”><a href= “links.html”>CLICK HERE: Links</a></font size></h4>
+<table order=5 cellspacing=5 cell padding=10 table bgcolor= “yellow” height= “20%” width= “10%” align= “center” </table>
+<tr><td>Gallery Name
+<td>Place
+<td>Date</tr>
+<tr><td>Vrinda Gallery
+<td>Kalady
+<td>10Aug1998</tr>
+<tr><td>Namitha Gallery
+<td>Angamaly
+<td>20sep2023</tr>
+</head>
+</html>
+                                                        Image
+<html>
+<head>
+<title></title>
+<body bgcolor= “cream”></body>
+<img src= “1.jpg” width= “470” height= “300”>
+<img src= “2.jpg” width= “470” height= “300”>
+<img src= “3.jpg” width= “470” height= “300”>
+<img src= “2.jpg” width= “470” height= “300”>
+<img src= “3.jpg” width= “470” height= “300”>
+<img src= “1.jpg” width= “470” height= “300”>
+<h1><font size= “2”><a href= “profile.html”>CLICK HERE: Profile</a></font size></h1>
+<h2><font size= “2”><a href= “gallery.html”>CLICK HERE: Gallery</a></font size></h2>
+<h3><font size= “3”><a href= “qualification.html”>CLICK HERE: Qualification</a></font size></h3>
+<h4><font size= “3”><a href= “links.html”>CLICK HERE: Links</a></font size></h1>
+</head>
+</html>
+                                                     LINKS
+<html>
+<head>
+<title></title>
+<body bgcolor= “yellow”></body bgcolor>
+<table border= “3” table bgcolor= “pink” cellpadding=5 cellspacing=10 height= “20%” width = “20%” align= “center” </table>
+<h1 align= “center”><u><Lins</u></h1>
+<tr><td>Pages
+<td>Link</tr>
+<tr><td>Image Gallery
+<td><font color= “Blue”><a href= “Image.html”></font color>CLICK HERE</a>
+</tr><tr>
+<td>Time-Table Gallery Shows
+<td><font color= “Blue”><a href= “gallery.html”></font color>CLICK HERE</a>
+</tr><tr>
+<td>Profile
+<td><font color= “Blue”><a href= “profile.html”></font color>CLICK HERE</a></tr>
+<h1><font size= “2”><a href= “qualification.html”>CLICK HERE: Qualification</font size></a>
+</head>
+</html>
+                                                     Qualification
+<html>
+<head>
+<title></title>
+<body bgcolor= “violet”></body>
+<h1><font size= “2”><font color= “yellow” ><a href= “profile.html”>CLICK HERE: Profile</a></font color></font size></h1>
+<h2><font size= “2”><font color= “orange” ><a href= “image.html”>CLICK HERE: Image</a></font color></font size></h2>
+<h3><font size= “2”><font color= “white” ><a href= “gallery.html”>CLICK HERE: Gallery</a></font color></font size></h3>
+<h4><font size= “2”><font color= “red” ><a href= “links.html”>CLICK HERE: Links</a></font color></font size></h4>
+<h5><font size= “6”><font color= “red” >Vrinda Mohan P</font color></font size></h5>
+<h6><font size= “5”><font color= “blue” >MCA</font color></font size></h6>
+<h7><font size= “5”><font color= “blue” >B.Sc.Chemistry</font color></font size></h7>
+</head>
+</html>
+“CLICK HERE in the main page is the link to the specified pages, which is created using<a>tag. “CLICK HERE” in the profile page is the link towards the bottom of the same page.

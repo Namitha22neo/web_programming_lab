@@ -1,0 +1,25 @@
+<html lang= “en”>
+<head>
+<title>ADD</title>
+</head>
+<body>
+<form method= “POST” action= “add.php”>
+<label for “n”>Enter the number:</label>
+<input type= “number” name= “n” required>
+<button type= “submit”>Add numbers</button>
+</form></body>
+</html>
+                                                           PHP
+<?php
+function addDigits($number){
+$sum=0;
+$numberString=(String)$number;
+For ($i=0; $i<Strlen($numberString);$i++){
+$Sum+=(int)$numberString[$i];
+   }
+   return $Sum;
+}
+$number=123;
+$result=addDigits($number);
+Echo “The sum of the digits of $number is: $result”;
+?>
